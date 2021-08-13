@@ -1,3 +1,19 @@
 
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+\
+,discovery/src/main/resources/application.yml,b/2/b24de3b07a1bc3ff2164cbd7e9ef9d4f28fbbbe1
+Y
+)course/src/main/resources/application.yml,7/2/721a695a7c29b8cc824c3c5f53ea6c2ff47e7685
+@
+course/stack.yml,0/a/0acf1e533b6a4d59c5d22015a6b36c7b849b5b76
+A
+discovery/pom.xml,a/c/ac3e1555725512e9cd39c39120cd768bda4aa7b4
+}
+Mgateway/src/main/java/academy/devdojo/youtube/gateway/GatewayApplication.java,d/c/dc6e447361ad32d94cbc3513389f32d33d7fdfce
+z
+Jcourse/src/main/java/academy/devdojo/youtube/course/CourseApplication.java,b/e/be48e5401fc35ebf8aeec5d4906f789a9d679f9a
+y
+Idiscovery/src/main/java/academy/devdojo/youtube/DiscoveryApplication.java,f/2/f2c06d0793b87134c36d14726e4c1fcc81464b8a

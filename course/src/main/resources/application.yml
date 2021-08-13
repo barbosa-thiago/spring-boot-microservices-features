@@ -13,6 +13,6 @@ spring:
   jmx:
     enabled: false
   datasource:
-    url: jdbc:mysql://localhost:3306/devdojo?allowPublicKeyRetrieval=true&sslMode=DISABLED
+    url: jdbc:mysql://localhost:3306/devdojo?createDatabaseIfNotExist=true&allowPublicKeyRetrieval=true&sslMode=DISABLED
     username: root
-    password: devdojo
+    password: root
